@@ -1,0 +1,43 @@
+{
+    "image": "ADD_IMAGES_BASE_URI_HERE10.png",
+    "tokenId": 10,
+    "name": "ADD_PROJECT_NAME_HERE 10",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "trait_type": "Base",
+            "value": "base"
+        },
+        {
+            "trait_type": "Skin",
+            "value": "white"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "small"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "smile"
+        },
+        {
+            "trait_type": "Frame",
+            "value": "box"
+        },
+        {
+            "trait_type": "Shade",
+            "value": "grey_tint"
+        },
+        {
+            "trait_type": "Outfit",
+            "value": "space"
+        }
+    ]
+}
